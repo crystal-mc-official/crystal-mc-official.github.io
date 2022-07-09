@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CrystalMC
 
 You can use the [editor on GitHub](https://github.com/crystal-mc-official/crystal-mc-official.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
